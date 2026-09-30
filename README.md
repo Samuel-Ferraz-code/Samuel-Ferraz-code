@@ -6,6 +6,4 @@
 <div>
    <a href="https://github.com/Samuel-Ferraz-code">
 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Samuel-Ferraz-code&theme=dark&show_icons=true"/>
-</div>
- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Samuel-Ferraz-code&theme=dark&show_icons=true)
+
